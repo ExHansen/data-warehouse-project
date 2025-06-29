@@ -17,7 +17,7 @@ Define Naming Convention: https://github.com/GoldenbergLab/naming-and-documentat
 
 
 ## Data Flow Diagram
-![Screenshot From 2025-06-29 20-30-51](https://github.com/user-attachments/assets/39eac973-bb28-4104-8feb-e047ac2c7859)
+![DFD](https://github.com/user-attachments/assets/39eac973-bb28-4104-8feb-e047ac2c7859)
 
 This project involves:
 - Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
@@ -25,4 +25,6 @@ This project involves:
 - Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 - Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights
 
+## Data Mart
+![Data Mart, hasil setelah melakukan gold layer](https://github.com/user-attachments/assets/86042389-e9a7-4fb1-8af8-65f4e88bb752)
 
