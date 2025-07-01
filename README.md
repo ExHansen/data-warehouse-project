@@ -1,9 +1,20 @@
 # data-warehouse-project
 This project is me practising to be an aspiring data engineer, starting with how to build a data warehouse from Data With Baraa
 
-Link youtube: https://youtu.be/9GVqKuTVANE?si=n_TRcRaQvGJP6PuU
+<p align="center">
+  <a href="https://youtu.be/9GVqKuTVANE" target="_blank">
+    <img src="https://img.youtube.com/vi/9GVqKuTVANE/maxresdefault.jpg" width="400"/>
+  </a>
+</p>
 
-Using SQL Server
+
+## Tools used:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d468ac1e-27ee-4c3d-b295-81a8fdf1603a" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1234116d-f646-40f5-81ba-5bb2302f85a2" width="150"/>
+</p>
+
+Fun Fact: This video tutorial by Data With Baraa uses Microsoft SQL and SQL Server Management Studio (SSMS). However, I'm practicing with PostgreSQL and DBeaver on Fedora Linux 42 to better understand how databases and SQL structure and logic work!
 
 In this project, I've learned about What is Data Warehouse, ETL/ELT, Project Planning, Analyzing Requirements, Schemas, Data Catalog, Data Architecture (Data Warehouse, Data Lake, Data Lakehouse, Data Mesh) using method like Inmon, Kimball, Data Vault, Medallion Architecture, Data Modelling, Dimensional and Fact Tables.
 
