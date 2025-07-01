@@ -29,12 +29,18 @@ Define Naming Convention: https://github.com/GoldenbergLab/naming-and-documentat
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights
 
 ## Data Architecture
-![Data Architecture](https://github.com/user-attachments/assets/469f35ad-e15e-4362-a253-d094dd6e16f9)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/469f35ad-e15e-4362-a253-d094dd6e16f9" width="800" alt="Data Architecture" />
+</p>
 
 ## Data Flow Diagram
-![DFD](https://github.com/user-attachments/assets/39eac973-bb28-4104-8feb-e047ac2c7859)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39eac973-bb28-4104-8feb-e047ac2c7859" width="800" alt="DFD" />
+</p>
 
 ## Data Mart
-![Data Mart, hasil setelah melakukan gold layer](https://github.com/user-attachments/assets/86042389-e9a7-4fb1-8af8-65f4e88bb752)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86042389-e9a7-4fb1-8af8-65f4e88bb752" width="800" alt="Data Mart, hasil setelah melakukan gold layer" />
+</p>
+
 
